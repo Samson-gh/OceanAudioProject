@@ -1,0 +1,1 @@
+This project is an initial exploration into using complex valued neural networks to perform signal analysis of ocean acoustic data. Potentially leading to other projects within the realm of oceans signal processing/analysis
